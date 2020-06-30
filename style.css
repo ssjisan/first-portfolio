@@ -26,7 +26,7 @@ section{
     padding-bottom: 200px;
 }
 .top{
-    background-image: url("img/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 
@@ -43,7 +43,7 @@ section{
     padding-left: 2%;
 }
 .middle{
-    background-image: url("img/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position:right;
 }
@@ -57,7 +57,7 @@ section{
     height: 60%;
 }
 .experience{
-    background-image: url("img/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
